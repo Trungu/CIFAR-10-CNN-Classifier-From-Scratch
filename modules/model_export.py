@@ -1,0 +1,3 @@
+"""
+Fully condensed CNN module
+"""
