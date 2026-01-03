@@ -1,0 +1,12 @@
+# Ignore the model checkpoints (The big file you just saved)
+*.pkl
+
+# Ignore the dataset folder (You don't want to upload 100MB of images)
+cifar-10-batches-py/
+
+# Ignore Python compiled files (Standard practice)
+__pycache__/
+*.pyc
+
+# Ignore Mac system files
+.DS_Store
